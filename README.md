@@ -1,4 +1,4 @@
 # 36-350
 This repository is for 36-350 Spring 22
 
-This is an edit
+print("It was a dark and stormy night")
